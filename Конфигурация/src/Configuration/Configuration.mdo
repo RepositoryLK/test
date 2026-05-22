@@ -31,5 +31,6 @@
   </languages>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Организации</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
 </mdclass:Configuration>
