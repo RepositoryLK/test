@@ -33,4 +33,5 @@
   <catalogs>Catalog.Организации</catalogs>
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.ФизическиеЛица</catalogs>
 </mdclass:Configuration>
